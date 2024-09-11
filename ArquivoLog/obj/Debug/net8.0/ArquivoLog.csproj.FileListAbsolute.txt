@@ -1,0 +1,14 @@
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\bin\Debug\net8.0\ArquivoLog.exe
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\bin\Debug\net8.0\ArquivoLog.deps.json
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\bin\Debug\net8.0\ArquivoLog.runtimeconfig.json
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\bin\Debug\net8.0\ArquivoLog.dll
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\bin\Debug\net8.0\ArquivoLog.pdb
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.AssemblyInfoInputs.cache
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.AssemblyInfo.cs
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.csproj.CoreCompileInputs.cache
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.dll
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\refint\ArquivoLog.dll
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.pdb
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ArquivoLog.genruntimeconfig.cache
+C:\Users\bielr\source\repos\ArquivoLog\ArquivoLog\obj\Debug\net8.0\ref\ArquivoLog.dll
